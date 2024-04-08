@@ -361,4 +361,4 @@ do {
 } while ($opcionPrincipal !=4) ;
     echo "--------------------------------\n"; 
     echo "Gracias por verificar el viaje   " ;
-    echo "\n--------------------------------\n"; 
+    echo "\n--------------------------------\n";
